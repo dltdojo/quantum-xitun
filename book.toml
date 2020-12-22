@@ -1,0 +1,11 @@
+[book]
+authors = ["JOYE LIN"]
+language = "en"
+multilingual = false
+src = "src"
+title = "量子西屯 Quantum XiTun"
+
+[build]
+build-dir = "docs"
+
+[preprocessor.katex]
